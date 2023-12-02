@@ -77,14 +77,7 @@ For any additional information or support, please raise an issue in the reposito
 
 ## Contributors
 
-- [konda051](#)
+- [Amulya Konda](#)
 - [Contributor 2](#)
 - [Contributor 3](#)
 - [Contributor 4](#)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-
-
