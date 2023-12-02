@@ -4,7 +4,9 @@ This repository houses the code and resources for our project on advanced text c
 
 ## Project Overview
 
-Our project aims to leverage the state-of-the-art Natural Language Processing (NLP) capabilities provided by Spark NLP to perform text classification tasks. Specifically, we use the pre-trained BERT (Bidirectional Encoder Representations from Transformers) model for classifying SMS messages as spam or not spam.
+This project is designed to critically assess and compare the efficacy of Spark NLP 5.1.4 and Hugging Face's Transformers in applying and fine-tuning pre-trained BERT models for text classification tasks. By building and adjusting a BERT classification model using Spark NLP and contrasting it with Hugging Face’s DistilBERT base uncased model, the study aims to evaluate their performance based on accuracy, precision, recall, and computational efficiency metrics. This comparison will shed light on the adaptability of these models to specific datasets and tasks, focusing on their minimal training requirements and resource optimization, particularly in GPU utilization and data processing techniques like batching.
+The project's primary objective is to offer insights into the suitability of Spark NLP and Hugging Face Transformers for various applications in business analytics, emphasizing their strengths and limitations in real-world settings. The findings will guide practitioners in selecting the most appropriate NLP tools for their specific needs, thereby underscoring the practical applications and customization potential of advanced pre-trained models in the rapidly evolving domain of NLP
+
 
 ## Repository Contents
 
