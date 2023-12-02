@@ -78,8 +78,9 @@ For any additional information or support, please raise an issue in the reposito
 
 - ## Contributors
 
+## Contributors
+
 - [Contributor 1](Amulya Konda)
-- [Contributor 2](Dat Luong)
-- [Contributor 3](Pranjali Gaikwad)
-- [Contributor 4](Yeiwei Tang)
-- [Contributor 5](Jiaqing Zhang)
+- [Contributor 2](#)
+- [Contributor 3](#)
+- [Contributor 4](#)
