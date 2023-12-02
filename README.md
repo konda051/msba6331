@@ -76,7 +76,5 @@ The expected output is the accuracy of the SMS spam classification model.
 
 For any additional information or support, please raise an issue in the repository or contact the contributors.
 
-- ## Contributors
-
 ## Contributors
 Amulya Konda, Dat Luong, Pranjali Gaikwad, Yeiwei Tang, Jiaqing Zhang
