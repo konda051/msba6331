@@ -79,9 +79,4 @@ For any additional information or support, please raise an issue in the reposito
 - ## Contributors
 
 ## Contributors
-
-- [Amulya Konda](#)
-- [Dat Luong](#)
-- [Pranjali Gaikwad](#)
-- [Yeiwei Tang](#)
-- [Jiaqing Zhang](#)
+Amulya Konda, Dat Luong, Pranjali Gaikwad, Yeiwei Tang, Jiaqing Zhang
