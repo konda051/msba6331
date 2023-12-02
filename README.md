@@ -23,7 +23,7 @@ The aim of this project is twofold:
 - [Project Flier](#)
 - [Dataset Source](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip)
 - [Additional Resources](https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html)
-- [Additional Resources]([https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html](https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20provides%20access%20to%20a%20vast%20community%2C%20continuously%20updated,Face's%20hosted%20models%20saves%20money))
+- [Additional Resources](https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20provides%20access%20to%20a%20vast%20community%2C%20continuously%20updated,Face's%20hosted%20models%20saves%20money))
 
 ## Getting Started
 
@@ -76,10 +76,10 @@ The expected output is the accuracy of the SMS spam classification model.
 
 For any additional information or support, please raise an issue in the repository or contact the contributors.
 
-## Contributors
+- ## Contributors
 
-- [Amulya Konda](#)
-- [Dat Luong](#)
-- [Pranjali Gaikwad](#)
-- [Yeiwei Tang](#)
-- [Jiaqing Zhang](#)
+- [Contributor 1](Amulya Konda)
+- [Contributor 2](Dat Luong)
+- [Contributor 3](Pranjali Gaikwad)
+- [Contributor 4](Yeiwei Tang)
+- [Contributor 5](Jiaqing Zhang)
