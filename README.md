@@ -80,7 +80,7 @@ For any additional information or support, please raise an issue in the reposito
 
 ## Contributors
 
-- [Contributor 1](Amulya Konda)
+- [Amulya Konda]
 - [Contributor 2](#)
 - [Contributor 3](#)
 - [Contributor 4](#)
