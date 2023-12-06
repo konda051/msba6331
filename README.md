@@ -20,7 +20,7 @@ The aim of this project is twofold:
 ## Quick Links
 
 - [Project Video](https://drive.google.com/file/d/1J5Gr5A80jjO_ORz4XbRHtPbNuIXpGcg6/view)
-- [Project Flier](https://github.com/konda051/msba6331/blob/main/flyer.png)
+- [Project Flier](https://github.com/konda051/msba6331/blob/main/Flyer.pdf)
 - [Dataset Source](https://archive.ics.uci.edu/ml/machine-learning-databases/00228/smsspamcollection.zip)
 - [Additional Resources](https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html)
 - [Additional Resources](https://www.techtarget.com/whatis/definition/Hugging-Face#:~:text=Hugging%20Face%20provides%20access%20to%20a%20vast%20community%2C%20continuously%20updated,Face's%20hosted%20models%20saves%20money)
